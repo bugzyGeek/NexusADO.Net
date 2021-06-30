@@ -1,0 +1,6 @@
+C:\Users\aAforo\Source\Repos\NexusADO.Net\NexusADO.Net\bin\Release\NexusADO.Net.dll
+C:\Users\aAforo\Source\Repos\NexusADO.Net\NexusADO.Net\bin\Release\NexusADO.Net.pdb
+C:\Users\aAforo\Source\Repos\NexusADO.Net\NexusADO.Net\obj\Release\NexusADO.Net.csprojAssemblyReference.cache
+C:\Users\aAforo\Source\Repos\NexusADO.Net\NexusADO.Net\obj\Release\NexusADO.Net.csproj.CoreCompileInputs.cache
+C:\Users\aAforo\Source\Repos\NexusADO.Net\NexusADO.Net\obj\Release\NexusADO.Net.dll
+C:\Users\aAforo\Source\Repos\NexusADO.Net\NexusADO.Net\obj\Release\NexusADO.Net.pdb
