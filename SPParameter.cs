@@ -1,10 +1,13 @@
 ﻿using System.Collections.Generic;
 using System.Data.SqlClient;
 
-public class SPParameters
+namespace NexusADO.Net
 {
-    // Properties
-    public Dictionary<string, SqlParameter> SqlParameters { get; private set; }
+    public class SPParameters
+    {
+        // Properties
+        public Dictionary<string, SqlParameter> SqlParameters { get; private set; }
+    }
 }
 
 

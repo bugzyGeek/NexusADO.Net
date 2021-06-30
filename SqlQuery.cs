@@ -1,12 +1,14 @@
 ﻿using System.Collections.Generic;
 
-public class SqlQuery
+namespace NexusADO.Net
 {
+    public class SqlQuery
+    {
 
-    // Properties
-    public Dictionary<string, object> Parameters { get; set; }
-    public Dictionary<string, Parameter> ProcdureParameters { get; set; }
-    public string Query { get; set; }
+        // Properties
+        public Dictionary<string, object> Parameters { get; set; }
+        public Dictionary<string, Parameter> ProcdureParameters { get; set; }
+        public string Query { get; set; }
+    }
 }
-
 
